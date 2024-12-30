@@ -33,10 +33,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xtobi/xtobi/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/xt0bi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xt0bi" /></a></p><br><br>
+<h3 align="center">Support:</h3>
+<div style="text-align: center; margin-top: 20px;">
+  <p>
+    <a href="https://www.buymeacoffee.com/xt0bi">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xt0bi" />
+    </a>
+  </p>
+</div>
 
