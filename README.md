@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend Frameworks,Core Technologies,Version Control**
 
-- 👨‍💻 All of my projects are available at [xtobi.github.io](xtobi.github.io)
+- 👨‍💻 All of my projects are available at [xtobi.github.io](https://xtobi.github.io)
 
 - 📫 How to reach me **ow3nez@gmail.com**
 
