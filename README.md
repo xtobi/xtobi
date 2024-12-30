@@ -38,9 +38,12 @@
 <h3 align="center">Support:</h3>
 <div style="text-align: center; margin-top: 20px;">
   <p>
-    <a href="https://www.buymeacoffee.com/xt0bi">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xt0bi" />
-    </a>
+   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <a href="https://www.buymeacoffee.com/xt0bi">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xt0bi" />
+  </a>
+</div>
+
   </p>
 </div>
 
