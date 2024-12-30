@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ow3nez@gmail.com**
 
-- 📄 Know about my experiences [Experienced in building dynamic, user-friendly web solutions using modern technologies like HTML, CSS, JavaScript, and frameworks, with a focus on performance, functionality, and teamwork.](Experienced in building dynamic, user-friendly web solutions using modern technologies like HTML, CSS, JavaScript, and frameworks, with a focus on performance, functionality, and teamwork.)
+- 📄 Know about my experiences [Experienced in building dynamic, user-friendly web solutions using modern technologies like HTML, CSS](Experienced in building dynamic, user-friendly web solutions using modern technologies like HTML, CSS)
 
 - ⚡ Fun fact **I Think I AM FuNnY**
 
